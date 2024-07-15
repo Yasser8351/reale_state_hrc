@@ -1,0 +1,111 @@
+class AppConfig {
+  static const String suggested = 'Suggested';
+
+  //////////////////////////
+  static const String aboutApp = "aboutApp";
+  static const String save = "Save";
+  static const String updatDataUser = "The data was updated successfully.";
+  static const String forgotPassword = "Forgot password";
+  static const String success = "Success";
+  static const String enterYourPhone = "enter Your Phone";
+  static const String alert = "Alert";
+  static const String delete = "delete";
+  static const String deleteItem = "Do you want to delete";
+  static const String cancel = "Cancel";
+  static const String sold = "Sold";
+  static const String sortBy = "Sort By";
+  static const String sell = "Sell";
+  static const String rent = "Rent";
+  static const String addNewListing = "Add New Listing";
+  static const String addTicket = "Add a Ticket";
+  static const String listings = "Listings";
+  static const String offers = "offers";
+
+  static const String contenue = "Continue";
+  static const String cancelled = "Cancelled";
+  static const String recevied = "Recevied";
+  static const String inPrograss = "In Prograss";
+  static const String inDelivering = "In Delivering";
+  static const String isDelivered = "is delivered";
+  static const String wasReceived = "was received";
+  static const String exitApp = "exitApp";
+  static const String termsOfService = "Terms of service";
+  static const String phone = "Phone";
+  static const String password = "Password";
+  static const String signUp = "Create an account";
+  static const String update = "Update";
+  static const String forgetPassword = "Forgot your password?";
+  static const String notifcation = "Notifcations";
+  static const String AllNotifcation = "All Notifcations";
+  static const String somthimgWroing = "Something wrong";
+  static const String profile = "Profile";
+  static const String editYourProfile = "Edit Your Profile";
+  static const String language = "Language";
+  static const String hidePassword = "hide password";
+  static const String helpCenter = "Help Center";
+  static const String contactUs = "Contact us";
+  static const String selectLanguage = "Select language";
+  static const String noInternet = "No internet connection";
+  static const String noData = "No data found";
+  static const String descreiption = "descreiption";
+  static const String agreeTotermsOfServices =
+      "By registering on the application, you agree to";
+  static const String myPortofolio = "My Portofolio";
+  static const String security = "Security";
+  static const String portofolio = "Portofolio";
+  static const String email = "email";
+  static const String active = "Active";
+  static const String emiratesID = "Emirates Id";
+  static const String completed = "Completed";
+  static const String register = "Register";
+  static const String fullName = "Full Name";
+  static const String signUpWithEmail = "التسجيل عن طريق البريد الإلكتروني";
+  static const String timeOut = "Your internet connection seems to be weak.";
+  static const String tryAgain = "Try Again";
+  static const String login = "Login";
+  static const String next = "Next";
+  static const String chooseCategory = "";
+  static const String history = "السجل";
+  static const String reviews = "التقييمات";
+  static const String faq = "FAQ";
+  static const String logout = "Logout";
+  static const String privacyPolicy = "Privacy Policy";
+  static const String dateofBirth = "Date of birth";
+  static const String version = "version";
+  static const String settings = "Settings";
+
+  static const String defultFilter = "Default Sort";
+  static const String selectGender = "Select gender";
+  static const String pleaseEnterEmail = "Please enter your email";
+  static const String pleaseEnteremiratesID = "Please enter your emirates Id";
+  static const String pleaseEnterPhone = "Please enter your phone";
+  static const String enterYourPassword = "Enter your password";
+  static const String confairmPassword = "confirm Password";
+  static const String enterYourUserName = "Enter your user name";
+  static const String userName = "user name";
+  static const String enterYourFullName = "Enter your full name";
+  static const String versionCode = "1.0.0";
+  static const String search = "Search";
+  static const String searchByName = "Search My House, Apartment, etc";
+  static const String seeAll = "See All";
+  static const String ok = "Ok";
+  static const String no = "No";
+  static const String yes = "Yes";
+  static const String resetPassword = "Restore password";
+  static const String allFaildRequired = "All fields are required";
+}
+
+class AppRouting {
+  static const String loginScreen = "/Login";
+  static const String privacyPolicy = "/privacyPolicy";
+  static const String splashScreen = "/splashScreen";
+  static const String theme = "/theme";
+  static const String signUp = "/SignUp";
+  static const String forgetPassword = "/forget password?";
+  static const String tabScreen = "/tab Screen";
+  static const String notifcation = "/Notifcations";
+  static const String profileUser = "/User Profile";
+  static const String support = "/Support";
+  static const String language = "/Language";
+  static const String fag = "/FAQ";
+}

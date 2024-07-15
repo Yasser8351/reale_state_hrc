@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827370742083",
+    "project_id": "hrcapp-14b83",
+    "storage_bucket": "hrcapp-14b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827370742083:android:3eb79814e862be26ac0ff6",
+        "android_client_info": {
+          "package_name": "com.hrc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCijecJUALnkjmxkxJpnYXjFpexqaND2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
